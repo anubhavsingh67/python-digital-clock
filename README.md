@@ -15,4 +15,4 @@ This project is a simple Digital Clock GUI application built using Python's Tkin
   3. strftime (from time module to format date and time)
 
 📸 Screenshot
-   URL:- ![image](https://github.com/user-attachments/assets/f767c4a8-5322-42bb-acd2-51bde48d80eb)
+   Format:- ![image](https://github.com/user-attachments/assets/f767c4a8-5322-42bb-acd2-51bde48d80eb)
